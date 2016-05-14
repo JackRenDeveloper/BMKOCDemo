@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "813b6244-c0fd-944b-bc56-cccdb157c543++7875",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "813b6244-c0fd-944b-bc56-cccdb157c543++7875" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "813b6244-c0fd-944b-bc56-cccdb157c543++7875" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EE742260-BA03-488B-A583-43A58857291A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "813b6244-c0fd-944b-bc56-cccdb157c543++7875" : "ZHBWorker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IphoneMapSdkDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZHBWorker\/Vendors\/BaiduMap_IOSSDK_v2.10.0\/BaiduMap_IOSSDK_v2.10.0_Sample\/BMKOCDemo\/IphoneMapSdkDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.105:8443\/svn\/zhaohuoba",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "813b6244-c0fd-944b-bc56-cccdb157c543++7875"
+    }
+  ]
+}
